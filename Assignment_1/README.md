@@ -83,7 +83,7 @@ By completing this assignment, I have practiced:
 
 ## Author
 
-- **[Your GitHub Username]** - _Student / Developer_
+- **Shivank Singh** - _Student / Developer_
 
 ---
 
